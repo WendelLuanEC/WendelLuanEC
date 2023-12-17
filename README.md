@@ -1,7 +1,7 @@
 ### Hi! I'm Wendel Luan
 
 - 💻 Studying Computer Engineering at the Federal University of Ceará
-- 🐍 Learning Java, Spring Boot and Python
+
 
 <div align="center">
   <a href="https://github.com/WendelLuanEC">
