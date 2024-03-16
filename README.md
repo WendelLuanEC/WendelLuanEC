@@ -1,6 +1,6 @@
 ### Hi! I'm Wendel Luan
 
-- 💻 Studying Computer Engineering at the Federal University of Ceará
+- 💻 BackEnd Developer
 
 
 <div align="center">
